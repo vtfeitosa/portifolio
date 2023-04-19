@@ -24,6 +24,10 @@ Project Version 1.0
 ---
 
 Project Version 2.0
+
+![](https://github.com/vtfeitosa/portifolio/blob/master/assets/figma/2.0/project_v2.0.jpg)
+
+
 - Home
 
 ![](https://github.com/vtfeitosa/portifolio/blob/master/assets/figma/2.0/figma_home.jpg)
