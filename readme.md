@@ -25,18 +25,23 @@ Project Version 1.0
 
 Project Version 2.0
 - Home
+
 ![](https://github.com/vtfeitosa/portifolio/blob/master/assets/figma/2.0/figma_home.jpg)
 
 - About Me
+
 ![](https://github.com/vtfeitosa/portifolio/blob/master/assets/figma/2.0/figma_about.jpg)
 
 - Experiences
+
 ![](https://github.com/vtfeitosa/portifolio/blob/master/assets/figma/2.0/figma_experience.jpg)
 
 - Works
+
 ![](https://github.com/vtfeitosa/portifolio/blob/master/assets/figma/2.0/figma_works.jpg)
 
 - Contact
+
 ![](https://github.com/vtfeitosa/portifolio/blob/master/assets/figma/2.0/figma_contact.jpg)
 
   Last update on April | 2023
